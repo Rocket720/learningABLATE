@@ -1,0 +1,2 @@
+# Getting Started Coding in ABLATE
+This repo serves as a template for the project repository outlined in the [Coding in ABLATE](https://coding.ablate.dev) step-by-step guide. It also serves to hold/serve the guide itself through the docs folder and GitHub pages.
