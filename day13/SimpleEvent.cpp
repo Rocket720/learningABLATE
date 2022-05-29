@@ -53,8 +53,8 @@ int main() {
     unique_ptr<Condition> pCondition;
     while (okay) {
         printf("(0) Quit (1) Normal (2) Fire: ");
-        okay = cin.get();
-
+        cin >> input;
+        okay = input;
         switch (input) {
             case 0:
                 break;
